@@ -22,7 +22,14 @@ public class NoteContainer : MonoBehaviour
         for (int i = 0; i < noteList.Count; i++)
             if (noteList[i].name.Contains(noteName))
             {
+
+                GameObject noteGameObject = GetNoteGameObjectByName(noteName);
+                SpriteRenderer spriteRenderer = noteGameObject.GetComponent<SpriteRenderer>();
+                spriteRenderer.color = Color.black;
+
                 noteList[i].SetActive(true);
+
+
             }
 
     }
@@ -44,6 +51,9 @@ public class NoteContainer : MonoBehaviour
 
     public void HighlightWrongNote(string noteName, Color color)
     {
+
+        if (highlightCouroutine != null)
+            StopCoroutine(highlightCouroutine);
 
         // расим неправильную ноту, а затем пр€чем
         GameObject noteGameObject = GetNoteGameObjectByName(noteName);
