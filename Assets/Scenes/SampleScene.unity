@@ -258,7 +258,7 @@ GameObject:
   - component: {fileID: 36448497}
   - component: {fileID: 36448496}
   m_Layer: 0
-  m_Name: nota_G3
+  m_Name: G3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -303,9 +303,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -340,7 +340,7 @@ GameObject:
   - component: {fileID: 66101352}
   - component: {fileID: 66101353}
   m_Layer: 0
-  m_Name: nota_E4
+  m_Name: E4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -399,9 +399,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -453,7 +453,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 9ebeca2ac43e30348b80ace94ce50184, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 0.5
   m_Pitch: 1
   Loop: 0
@@ -631,7 +631,7 @@ GameObject:
   - component: {fileID: 143527514}
   - component: {fileID: 143527513}
   m_Layer: 0
-  m_Name: nota_D3
+  m_Name: D3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -676,9 +676,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1525,7 +1525,7 @@ GameObject:
   - component: {fileID: 392226355}
   - component: {fileID: 392226356}
   m_Layer: 0
-  m_Name: nota_B4
+  m_Name: B4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1585,9 +1585,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1973,7 +1973,7 @@ GameObject:
   - component: {fileID: 655348878}
   - component: {fileID: 655348877}
   m_Layer: 0
-  m_Name: nota_E2
+  m_Name: E2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2018,9 +2018,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2073,7 +2073,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9bc005c22456d1149a203ed1b1ec53a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  noteArray: []
   noteList:
   - {fileID: 1072486822}
   - {fileID: 1516589165}
@@ -2082,7 +2081,6 @@ MonoBehaviour:
   - {fileID: 1958444461}
   - {fileID: 1998432610}
   - {fileID: 795831902}
-  - {fileID: 1449497615}
   - {fileID: 1643518242}
   - {fileID: 143527512}
   - {fileID: 896076970}
@@ -2115,8 +2113,8 @@ Transform:
   - {fileID: 1958444463}
   - {fileID: 1998432612}
   - {fileID: 795831904}
-  - {fileID: 1449497617}
   - {fileID: 1643518244}
+  - {fileID: 1449497617}
   - {fileID: 143527514}
   - {fileID: 896076972}
   - {fileID: 1844534533}
@@ -2265,7 +2263,7 @@ GameObject:
   - component: {fileID: 795831904}
   - component: {fileID: 795831903}
   m_Layer: 0
-  m_Name: nota_B2
+  m_Name: B2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2310,9 +2308,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2436,7 +2434,7 @@ GameObject:
   - component: {fileID: 896076972}
   - component: {fileID: 896076971}
   m_Layer: 0
-  m_Name: nota_F3
+  m_Name: F3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2481,9 +2479,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2642,7 +2640,7 @@ GameObject:
   - component: {fileID: 1054014634}
   - component: {fileID: 1054014635}
   m_Layer: 0
-  m_Name: nota_B3
+  m_Name: B3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2701,9 +2699,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2724,7 +2722,7 @@ GameObject:
   - component: {fileID: 1071661769}
   - component: {fileID: 1071661768}
   m_Layer: 0
-  m_Name: nota_F2
+  m_Name: F2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2769,9 +2767,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2806,7 +2804,7 @@ GameObject:
   - component: {fileID: 1072486824}
   - component: {fileID: 1072486823}
   m_Layer: 0
-  m_Name: nota_C2
+  m_Name: C2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2851,9 +2849,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -3260,7 +3258,7 @@ GameObject:
   - component: {fileID: 1111360801}
   - component: {fileID: 1111360802}
   m_Layer: 0
-  m_Name: nota_C4
+  m_Name: C4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3319,9 +3317,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -3761,6 +3759,51 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.2714286, y: 6.64}
   m_EdgeRadius: 0
+--- !u!1 &1278249003
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1278249005}
+  - component: {fileID: 1278249004}
+  m_Layer: 0
+  m_Name: NotesTrainer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1278249004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1278249003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e7512daf71cf924f81b19a181015b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  noteContainer: {fileID: 750621991}
+  currentNoteName: 
+--- !u!4 &1278249005
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1278249003}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1297145777
 GameObject:
   m_ObjectHideFlags: 0
@@ -3772,7 +3815,7 @@ GameObject:
   - component: {fileID: 1297145778}
   - component: {fileID: 1297145779}
   m_Layer: 0
-  m_Name: nota_F4
+  m_Name: F4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3831,9 +3874,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -3854,7 +3897,7 @@ GameObject:
   - component: {fileID: 1309138051}
   - component: {fileID: 1309138052}
   m_Layer: 0
-  m_Name: nota_A4
+  m_Name: A4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3914,9 +3957,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -4143,7 +4186,7 @@ GameObject:
   - component: {fileID: 1424767829}
   - component: {fileID: 1424767830}
   m_Layer: 0
-  m_Name: nota_G4
+  m_Name: G4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4202,9 +4245,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -4349,12 +4392,12 @@ GameObject:
   - component: {fileID: 1449497617}
   - component: {fileID: 1449497616}
   m_Layer: 0
-  m_Name: nota_C3 bass
+  m_Name: "nota_\u04213 bass \u0440\u0443\u0441\u0441\u043A\u0430\u044F \u0421"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1449497616
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4394,9 +4437,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -4419,7 +4462,7 @@ Transform:
   m_Children:
   - {fileID: 261610299}
   m_Father: {fileID: 750621992}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1511671132
 GameObject:
@@ -4556,7 +4599,7 @@ GameObject:
   - component: {fileID: 1516589167}
   - component: {fileID: 1516589166}
   m_Layer: 0
-  m_Name: nota_D2
+  m_Name: D2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4601,9 +4644,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -5181,7 +5224,7 @@ GameObject:
   - component: {fileID: 1643518244}
   - component: {fileID: 1643518243}
   m_Layer: 0
-  m_Name: nota_C3
+  m_Name: C3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5226,9 +5269,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -5251,7 +5294,7 @@ Transform:
   m_Children:
   - {fileID: 1139434097}
   m_Father: {fileID: 750621992}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1698397375
 GameObject:
@@ -5594,7 +5637,7 @@ GameObject:
   - component: {fileID: 1783458003}
   - component: {fileID: 1783458004}
   m_Layer: 0
-  m_Name: nota_D4
+  m_Name: D4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5653,9 +5696,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -5676,7 +5719,7 @@ GameObject:
   - component: {fileID: 1840015825}
   - component: {fileID: 1840015824}
   m_Layer: 0
-  m_Name: nota_A3
+  m_Name: A3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5721,9 +5764,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -5758,7 +5801,7 @@ GameObject:
   - component: {fileID: 1844534533}
   - component: {fileID: 1844534532}
   m_Layer: 0
-  m_Name: nota_E3
+  m_Name: E3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5803,9 +5846,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -5840,7 +5883,7 @@ GameObject:
   - component: {fileID: 1958444463}
   - component: {fileID: 1958444462}
   m_Layer: 0
-  m_Name: nota_G2
+  m_Name: G2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5885,9 +5928,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -5922,7 +5965,7 @@ GameObject:
   - component: {fileID: 1998432612}
   - component: {fileID: 1998432611}
   m_Layer: 0
-  m_Name: nota_A2
+  m_Name: A2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5967,9 +6010,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c26fe1d51ec7c524e945bf3445665428, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: bea32fa0774c56d4d9967cf3a9838f3d, type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
